@@ -32,3 +32,9 @@ I have no work experience, but I did various projects  during my studies to impr
   - 2015 - 2019
 - **Front-end Developer, RobotDreams**
   - 2023
+
+## Languages
+- Ukrainian, native
+- Russian, native
+- Polish, A1
+- English, A2
