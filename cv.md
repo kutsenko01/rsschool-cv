@@ -16,3 +16,10 @@ I am a junior front-end developer. I want to find a good, remote job in the posi
 - Git
 - Figma
 - VS Code
+
+## Code examples
+```javascript
+function multiply(a, b) {
+  return a * b;
+}
+```
