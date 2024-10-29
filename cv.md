@@ -23,3 +23,12 @@ function multiply(a, b) {
   return a * b;
 }
 ```
+
+## Experience
+I have no work experience, but I did various projects  during my studies to improve my skills. Used such technologies as HTML, CSS, JS, React.
+
+## Education
+- **Bachelor, Banking University in Kyiv**
+  - 2015 - 2019
+- **Front-end Developer, RobotDreams**
+  - 2023
